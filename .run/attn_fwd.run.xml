@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="attn_fwd" type="CLionNativeAppRunConfigurationType" PROGRAM_PARAMS="randn_2048_128.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$/kernels/attn/demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ThunderKittens" TARGET_NAME="attn_fwd" CONFIG_NAME="attn_fwd" version="1" RUN_PATH="$PROJECT_DIR$/kernels/attn/demo/attn_fwd">
+    <method v="2">
+      <option name="CLION.COMPOUND.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>

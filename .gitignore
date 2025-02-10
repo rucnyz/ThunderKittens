@@ -10,3 +10,5 @@
 __pycache__/
 */printouts/*
 .idea
+*.egg*
+build
