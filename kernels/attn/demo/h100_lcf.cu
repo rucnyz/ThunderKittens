@@ -97,4 +97,4 @@ template<int D> struct attn_fwd_template {
 };
 // kernel is kittens::prototype::lcf::kernel<attn_fwd_template<HEAD_DIM>>;
 
-#include "h100_lcf_harness.impl"
+#include "h100_lcf_harness.cu"
